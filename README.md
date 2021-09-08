@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @shawnz99
-- 👀 I’m interested in ... Things
-- 🌱 I’m currently learning ... Programming
 
-This is where I put my version control for my projects
+### Hi, I'm Shawn Zimmermann
+  - I'm currently a Computer Science student at the University At Buffalo
+  - I'm interests are currently in Systems and software development
+  - I'm currently learning how to build web applications
+
+This GitHub is where I put my version control for my projects.
+
+My most current (and most in depth) project is my bdt project, The _"Binary Data Tool"_
 
 
 <!---
