@@ -1,8 +1,8 @@
 
 ### Hi, I'm Shawn Zimmermann
-  - I'm currently a Computer Science student at the University At Buffalo
+
+  - I'm currently a Grad Student at the University At Buffalo and a Software Engineer at Bolt Graphics
   - I'm interests are currently in Systems and software development
-  - I'm currently learning how to build web applications
 
 This GitHub is where I put my version control for my projects.
 
