@@ -1,12 +1,11 @@
 
 ### Hi, I'm Shawn Zimmermann
 
-  - I'm currently a Grad Student at the University At Buffalo and a Software Engineer at Bolt Graphics
+  - I'm currently a Grad Student at the University At Buffalo and a Software Engineer looking for full time opportunities
   - I'm interests are currently in Systems and software development
 
 This GitHub is where I put my version control for my projects.
 
-My most current (and most in depth) project is my bdt project, The _"Binary Data Tool"_
 
 
 <!---
