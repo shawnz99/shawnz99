@@ -1,8 +1,8 @@
 
 ### Hi, I'm Shawn Zimmermann
 
-  - I'm currently a Grad Student at the University At Buffalo and a Software Engineer looking for full time opportunities
-  - I'm interests are currently in Systems and software development
+  - I'm currently a PhD Student at the University At Buffalo and a Software Engineer looking for full time opportunities
+  - I'm interests are currently in Distributed Systems and systems as a whole.
 
 This GitHub is where I put my version control for my projects.
 
